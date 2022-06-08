@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Crush Movies</string>
+    <string name="faveFilm">Favoritos</string>
+    <string name="listFilm">Lista</string>
+    <string name="feedbackFilm">Feedback</string>
 </resources>
